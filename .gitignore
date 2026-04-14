@@ -1,0 +1,27 @@
+LGCL local state and logs
+-------------------------
+state/
+snapshots/
+logs/
+profiles/
+runtimes/
+*.log
+*.lock
+.local/
+
+Editor directories and files
+----------------------------
+.vscode/
+.idea/
+*.swp
+*~
+
+OS generated files
+------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
